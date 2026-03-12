@@ -40,7 +40,7 @@ Retail businesses generate a large amount of customer and transaction data every
 
 ## Dashboard Preview
 
-<img width="1198" height="901" alt="image" src="https://github.com/user-attachments/assets/d6813cb4-09ee-4579-9d3b-d9428a20e6ea" />
+<img width="1198" height="898" alt="image" src="https://github.com/user-attachments/assets/79643c69-e9c0-4a7d-b8fd-139b9a836230" />
 
 Logo Source: Icon made by kmg design from www.flaticon.com
 

@@ -1,12 +1,8 @@
 # Dashboard-Sales-Performance
 
 ## Introduction
-This project is part of the Virtual Project-Based Internship program organized by Rakamin Academy in collaboration with Bank Muamalat. In this program, I took on the role of a Business Intelligence Analyst, responsible for performing data analysis and creating visualizations to support data driven decision making.
+Retail businesses generate a large amount of customer and transaction data every day, which can be leveraged to support better decision-making. This project aims to analyze overall sales trends, sales and product quantities sold by category, top selling products by sales and quantities, as well as the distribution of sales and product quantities sold across cities. The analysis is performed using SQL in Google BigQuery for data processing and Looker Studio for visualization.
 
-
-## Objective
-- Building master tables to support dashboard visualization.
-- Designing and delivering an interactive dashboard to analyze and monitor sales performance.
 
 ## Tools
 - Google BigQuery
@@ -40,9 +36,10 @@ This project is part of the Virtual Project-Based Internship program organized b
 
 ## Dashboard Preview
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/665921c6-4031-4238-bf82-0e00c0e0960d" />
+<img width="1198" height="901" alt="image" src="https://github.com/user-attachments/assets/d6813cb4-09ee-4579-9d3b-d9428a20e6ea" />
 
 Logo Source: Icon made by kmg design from www.flaticon.com
+
 
 ## Insight & Recommendation
 - Total sales decreased from 931,204 in 2020 to 841,495 in 2021, representing a decline of 9.63%. Despite the overall annual drop, sales performance in 2021 reached its peak in June, making it the highest-selling month of the year.

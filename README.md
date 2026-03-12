@@ -17,6 +17,10 @@ Retail businesses generate a large amount of customer and transaction data every
 |Product Category    |Contains information about product category names.                       |CategoryID, Categoryname, CategoryAbbreviation                                                                      |
 |Products            |Contains information about product details                               |ProdNumber, ProdName, Category, Price                                                                               |
 
+##Entity Relationship Diagram
+
+<img width="818" height="682" alt="Entity Relationship Diagram (ERD)" src="https://github.com/user-attachments/assets/cb431c08-c2ba-4aaa-b77e-ff7b946ca6b8" />
+
 
 ## Business Question
 - What is the total overall sales generated?
